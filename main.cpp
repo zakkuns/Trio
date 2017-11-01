@@ -14,6 +14,8 @@ int main()
 
 
   //DO NOT CHANGE WITHIN THIS AREA...
+  cout<<"Rearranged....\n";
+  cout<<"RGB: "<<red<<","<<green<<","<<blue<<endl;
   return 0;
   //...END OF "DO NOT CHANGE" AREA
 }
